@@ -1,0 +1,1 @@
+DELETE FROM Pelanggan where id = 12;

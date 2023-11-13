@@ -1,0 +1,1 @@
+DELETE FROM Barang WHERE id = 28;

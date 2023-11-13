@@ -1,0 +1,1 @@
+DELETE FROM Kategori where id = 10;

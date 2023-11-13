@@ -1,0 +1,1 @@
+DELETE FROM Transaksi where id = 26;
